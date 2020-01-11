@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{125:function(o){o.exports=JSON.parse('{"allTagsPath":"/xmars-ui-docs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/xmars-ui-docs/blog/tags/hello"}')}}]);
